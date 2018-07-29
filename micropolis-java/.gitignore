@@ -3,3 +3,6 @@ build
 docs/api
 graphics/generated
 .*.swp
+
+# Gradle files
+.gradle/
