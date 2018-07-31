@@ -1,8 +1,11 @@
 build
-*.jar
+micropolisj.jar
 docs/api
 graphics/generated
 .*.swp
 
 # Gradle files
 .gradle/
+
+# IntelliJ IDEA
+.idea/
